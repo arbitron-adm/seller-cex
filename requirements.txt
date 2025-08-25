@@ -1,0 +1,7 @@
+ccxt[pro]
+PyQt6
+rich
+asyncio
+qasync
+aiohttp_socks
+certifi==2025.1.31

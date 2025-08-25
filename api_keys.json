@@ -1,0 +1,64 @@
+{
+  "proxy_keys": {
+    "host": "***",
+    "port": "***",
+    "username": "***",
+    "password": "***"
+  },
+  "binance_keys": {
+    "apiKey": "***",
+    "secret": "***"
+  },
+  "bitget_keys": {
+    "apiKey": "***",
+    "secret": "***",
+    "password": "***"
+  },
+  "bybit_keys": {
+    "apiKey": "***",
+    "secret": "***"
+  },
+  "gateio_keys": {
+    "apiKey": "***",
+    "secret": "***"
+  },
+  "huobi_keys": {
+    "apiKey": "***",
+    "secret": "***"
+  },
+  "kucoin_keys": {
+    "apiKey": "***",
+    "secret": "***",
+    "password": "***"
+  },
+  "mexc_keys": {
+    "apiKey": "***",
+    "secret": "***"
+  },
+  "okx_keys": {
+    "apiKey": "***",
+    "secret": "***",
+    "password": "***"
+  },
+  "bitmart_keys": {
+    "apiKey": "***",
+    "secret": "***",
+    "uid": "***"
+  },
+  "poloniex_keys": {
+    "apiKey": "***",
+    "secret": "***"
+  },
+  "coinex_keys": {
+    "apiKey": "***",
+    "secret": "***"
+  },
+  "bingx_keys": {
+    "apiKey": "***",
+    "secret": "***"
+  },
+  "xt_keys": {
+    "apiKey": "***",
+    "secret": "***"
+  }
+}
